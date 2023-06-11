@@ -6,7 +6,7 @@ I'm a Front End developer.
 
 *   🌍  I'm based in Buenos Aires, Argentina
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning Next.js
+*   🧠  Currently learning Express.js
 
 ### Skills
 
