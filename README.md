@@ -5,7 +5,7 @@ I'm a Full Stack developer.
 --------------------------
 
 *   🌍  I'm based in Buenos Aires, Argentina
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://gianlucaprocopiodev.netlify.app//'>Portfolio</a>
 *   🧠  Currently learning Express.js
 
 ### Skills
